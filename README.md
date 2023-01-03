@@ -2,9 +2,12 @@
 
 ## Description
 
-In this project I am creating codes to calculate different financial data for a company:
+In this project I am creating codes to calculate different financial data for a company. The required data is:
  - Total Months
  - Total Amount
+ - Average Change
+ - Greatest Increase
+ - Greatest Decrease
 
 
 
@@ -12,7 +15,7 @@ In this project I am creating codes to calculate different financial data for a 
 
 ### Console-Finance
 
-![](./images/screenshot.jpg)
+![](Screenshot.jpg)
 
 
 
@@ -22,17 +25,21 @@ In this project I am creating codes to calculate different financial data for a 
 - Live Site URL: [Live site URL here](https://kodeiva.github.io/Console-Finances/)
 
 
-## Codes used
+## Programming languages used
 
 - HTML
 - JavaScript
 
 
-### JavaScript
+### JavaScript methods used
 
-```js
-
-```
+- for loop
+- reduce()
+- Math.min()
+- Math.max()
+- toFixed()
+- push()
+- typeof
 
 ## Installation
 
