@@ -15,7 +15,7 @@ In this project I am creating codes to calculate different financial data for a 
 
 ### Console-Finance
 
-![](../image/screenshot.jpg)
+![](./image/screenshot%20.jpg)
 
 
 
